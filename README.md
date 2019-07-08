@@ -1,4 +1,4 @@
-# Readed books
+# Read books
 ---
 <div>
 <img src="https://github.com/B0nesh/Readed_books/blob/media/automate_the_boring_stuff_with_python.jpg" width="290">
@@ -14,4 +14,11 @@
 ---
 <div>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/linux_basics_for_hackers.png' width='290'>
+<img src='https://github.com/B0nesh/Readed_books/blob/media/Hacking_the_art_of_exploitation.jpg' width='290'>
+<img src='https://github.com/B0nesh/Readed_books/blob/media/TCP_IP_guide.jpg' width='290'>
+</div>
+
+<div>
+<img src='https://github.com/B0nesh/Readed_books/blob/media/black_hat_python.jpg' width='290'>
+<img src='https://github.com/B0nesh/Readed_books/blob/media/ubuntu_for_non_geeks.jpg' width='290'>
 </div>
