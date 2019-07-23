@@ -21,4 +21,5 @@
 <div>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/black_hat_python.jpg' width='290'>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/ubuntu_for_non_geeks.jpg' width='290'>
+<img src='https://github.com/B0nesh/Read_books/blob/media/vi_improved_vim.jpg' width='290'>
 </div>
