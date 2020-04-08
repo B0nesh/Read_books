@@ -21,6 +21,7 @@
 
 <div>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/black_hat_python.jpg' width='290' height='380'>
+<img src='https://raw.githubusercontent.com/b0n3sh/Read_books/media/art_of_debugging.jpg' width='290' height='380'>
 </div>
 
 <div>
