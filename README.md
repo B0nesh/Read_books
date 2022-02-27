@@ -1,9 +1,10 @@
 # Read books
 ---
-<div>
-<img src="https://github.com/B0nesh/Readed_books/blob/media/automate_the_boring_stuff_with_python.jpg" width="290" height='380'>
-<img src='https://github.com/B0nesh/Readed_books/blob/media/python_crash_course.jpg' width='290' height='380'>
+<div style="display: flex">
+<img src="https://github.com/B0nesh/Readed_books/blob/media/automate_the_boring_stuff_with_python.jpg"/>
+<img src='https://github.com/B0nesh/Readed_books/blob/media/python_crash_course.jpg'/>
 </div>
+
 <div>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/pro_git_2.png' width='290' height='380'>
 <img src='https://raw.githubusercontent.com/b0n3sh/read_books/media/silence_on_the_wire.jpg' width='290' height='380'>
@@ -26,7 +27,11 @@
 <div>
 <img src='https://github.com/B0nesh/Readed_books/blob/media/black_hat_python.jpg' width='290' height='380'>
 <img src='https://raw.githubusercontent.com/b0n3sh/Read_books/media/art_of_debugging.jpg' width='290' height='380'>
+<img src='https://raw.githubusercontent.com/b0n3sh/Read_books/media/linux_and_the_unix_philosophy.jpg' width='290' height='380'>
 </div>
 
 <div>
+<img src='https://raw.githubusercontent.com/b0n3sh/Read_books/media/linux_kernel_development.jpg' width='290' height='380'>
 </div>
+
+<img src="hed.svg"/>
